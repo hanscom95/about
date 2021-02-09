@@ -9,7 +9,7 @@ version: 2
 name: HOON
 title: moonbox developer blog
 email: hanscom94@email.co.uk
-website: https://yourname.github.io
+website: https://moonbox.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
