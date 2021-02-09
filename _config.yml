@@ -1,5 +1,5 @@
 # Site
-repository: hanscom95/hanscom95.github.io
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: MOON
 title: I`m an Developer
-email: bretthanscom94@gmail.com
+email: hanscom94@gmail.com
 website: hanscom95.github.io
 
 # Dark Mode (true/false/never)
