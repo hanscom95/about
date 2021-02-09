@@ -1,31 +1,31 @@
 # Site
-repository: sproogen/resume-theme
+repository: hanscom95/hanscom95.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: MOON
+title: I`m an Developer
+email: hanscom94@gmail.com
+website: www.github.com/hanscom95
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  hanscom95
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: 문태훈
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: moon_developer_93
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
