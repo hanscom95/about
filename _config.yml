@@ -9,14 +9,14 @@ version: 2
 name: MOON
 title: I`m an Developer
 email: hanscom94@gmail.com
-website: https://hanscom95.github.io/
+website: https://hanscom95.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  hanscom95
+github_username: hanscom95
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: 100002479598118
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Moon and I'm a JN-Developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Food</mark>
+  I am most skilled in: <mark>Android</mark> and <mark>Eating Food</mark>
 
 content:
   - title: Projects # Title for the section
@@ -110,6 +110,9 @@ content:
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
+
+plugins:
+ - jekyll-seo-tag
 
 # Build settings
 remote_theme: sproogen/resume-theme
