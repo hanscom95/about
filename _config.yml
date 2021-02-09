@@ -9,7 +9,7 @@ version: 2
 name: MOON
 title: I`m an Developer
 email: hanscom94@gmail.com
-website: www.github.com/hanscom95
+website: https://hanscom95.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -19,7 +19,7 @@ darkmode: true
 github_username:  hanscom95
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: 문태훈
+facebook_username: 100002479598118
 # flickr_username: jekyll
 instagram_username: moon_developer_93
 # linkedin_username: jameswgrant
@@ -104,9 +104,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Photography
       - Gaming
-      - Knitting
 
 # Footer
 footer_show_references: true
