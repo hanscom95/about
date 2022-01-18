@@ -11,7 +11,7 @@ title: 개발자로 오래 살고 싶은 직딩
 email: hanscom94@gmail.com
 website: hanscom95.github.io
 
-# Dark Mode (true/false/never)
+# Dark Mode (true/false/never) 
 darkmode: false
 
 # Social links
@@ -48,7 +48,7 @@ instagram_username: moon_developer_93
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  꿈꾸는 개발자 문태훈입니다. 커피를 좋아하고 여행을 좋아하는 직딩으로 개발일로 오래 먹고 살기 위해 노력해 나가는 중입니다. 프론트 개발부터 앱 개발(안드로이드, 플로터), System 프로그래밍, 백엔드, DevOps까지 많은 걸 건드렸으나 아직 딱 ???전문가 라는 얘기를 듣지 못하는 주니어 개발자 입니다. 그래도 없으면 안되는 그런 존재가 되기 위하여 노력 하고 있습니다.
+  잘 놀고 일도 잘 하자! 커피를 좋아하고 여행을 좋아하는 직딩으로 개발자로 오래 먹고 살기 위해 노력해 나가는 중이다. 프론트 개발부터 앱 개발(안드로이드, 플로터), System 프로그래밍, 백엔드, DevOps까지 많은 걸 건드렸으나 아직 딱 ???전문가라는 소리는 듣지 못하는 주니어 개발자이다. 그래도 없으면 안되는 존재가 되기 위하여 노력 하고 있다.
 
   I am most skilled in: <mark>Java</mark> and <mark>Eating Food</mark>
 
@@ -82,9 +82,9 @@ content:
         sub_title: BlockChain, BackEnd System, DevOps
         caption: December 2020 - Present
         quote: >
-          비스퀘어랩 Square Leisure 기반 DID, Data Governance, Cross-Chain Interoperability 및 Oracle과 같은 솔루션을 제공합니다.
+          비스퀘어랩 Square Leisure 기반 DID, Data Governance, Cross-Chain Interoperability 및 Oracle과 같은 솔루션을 제공한다
         description: | # this will include new lines to allow paragraphs
-            주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있습니다.
+            주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있다.
             주 사용 언어: Node, Go, Java, Dart(Flutter), Android, IoS, MYSQL
       - layout: left
         title: (주)알텍
@@ -115,11 +115,11 @@ content:
         caption: 2015 - 2019
         sub_title: 융합기술경영학부
         quote: >
-          Established in 1954#, INHA is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          산업 전반에서 일어나는 복합적인 문제를 IT, 공학, 경영 등 여러 각도 에서 분석하고, 실제로 적용할 수 있는 융합적인 해결 방법을 찾아내는 능력을 기를 수 있도록 교육했다.
         description: | # this will include new lines to allow paragraphs
-          During my time at INHA I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          공과대학 융합기술경영학부 소속으로 4년 만기 졸업. 학기중 (주)스탠딩 에그 회사에 주임 연구원으로 재직. 회사생활과 학교 생활을 병행 하였다
 
-          I spent a lot of my free time as a committee member of the *INHA Drinking Club* taking on roles such as *Trip Secretary*.
+          합리적 사고와 엔지니어적 기술 향상을 목표로 실무와 대학교육을 최대한 누린 4년이었다. 대학생활을 최대한 즐기려고 하였으나 이놈에 회사 생활은... 그래도 후회는 없다!(졸업 후 군대간 건 안비밀 ㅜㅜ)
 
   - title: A Little More About Me
     layout: text
