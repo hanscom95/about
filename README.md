@@ -1,2 +1,2 @@
 # hanscom95.github.io
-my blog
+my about
