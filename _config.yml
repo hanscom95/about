@@ -9,7 +9,7 @@ version: 2
 name: 문태훈
 title: 개발자로 오래 살고 싶은 직딩
 email: hanscom94@gmail.com
-website: hanscom95.github.io/about
+website: hanscom95.github.io
 
 # Dark Mode (true/false/never) 
 darkmode: false
@@ -48,9 +48,9 @@ instagram_username: moon_developer_93
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  잘 놀고 일도 잘 하자! 커피를 좋아하고 여행을 좋아하는 직딩으로 개발자로 오래 먹고 살기 위해 노력해 나가는 중이다. 프론트 개발부터 앱 개발(안드로이드, 플로터), System 프로그래밍, 백엔드, DevOps까지 많은 걸 건드렸으나 아직 딱 ???전문가라는 소리는 듣지 못하는 주니어 개발자이다. 그래도 없으면 안되는 존재가 되기 위하여 노력 하고 있다.
+  일, 생활 모두 재미있게 하자! 커피를 좋아하고 여행을 좋아하는 직딩으로 개발자로 오래 먹고 살기 위해 노력해 나가는 중이다. 프론트 개발부터 앱 개발(안드로이드, 플로터), System 프로그래밍, 백엔드, DevOps까지 많은 걸 건드렸으나 아직 배고픈? 개발자다.
 
-  I am most skilled in: <mark>Java</mark> and <mark>Eating Food</mark>
+  I am most skilled in: <mark>Java</mark> and <mark>Node</mark> and <mark>Travel</mark>
 
 content:
   - title: Projects # Title for the section
@@ -90,15 +90,18 @@ content:
         title: (주)알텍
         link: www.artech.limited
         # link_text: artech.limited
-        sub_title: C++, Java, Android, PHP
+        sub_title: 양궁,
         caption: November 2017 - November 2018
         quote: >
-          양궁 점수 인식 시스템 개발, 
+          양궁 점수 인식 시스템 개발, 오픈마켓
         description: | # this will include new lines to allow paragraphs
             카메라를 이용한 양궁 점수 인식 프로그램으로 카메라를 무선으로 연결한 Android장치를 이용하여 자동 점수 인식 프로그램을 개발하였다. 점수 인식 성공률은 10발당 90% 정도를 보였으며,
             Computer Vision을 딥러닝 기술을 C++로 개발하였으며 Android JNI를 이용한 VIEW 프로그램을 개발.
+            낚시 관련 오픈마켓 앱을 출시 Android native로 개발하였으며 백엔드는 PHP 및 Node로 제작(현재 서비스 종료)
+            (https://apkpure.com/%EC%84%B8%EC%83%81%EC%97%90%EB%AA%A8%EB%93%A0%EB%AF%B8%EB%81%BC-%EC%84%B8%EB%AF%B8/artech.com.semi.free)
+            주 사용 언어: Java, C++, PHP, Android, iOS, Node
       - layout: left
-        title: The Standing-Egg Company
+        title: 주식회사 스탠딩에그
         link: www.standing-egg.com
         # link_text: standing.com
         sub_title: Sensor Fusion 
@@ -107,6 +110,19 @@ content:
           Software programming with sensors
         description: | # this will include new lines to allow paragraphs
             Kalman filter, sensor fusion algorithm programming using 9-axis sensor. Android app development that links tracking, fitness, and iot systems.
+            주 사용 언어: C++, Python, Java, Android
+      - layout: left
+        title: 씨앤토트플러스(주)
+        link: www.cnthoth.com
+        # link_text: cnthoth.com
+        sub_title: SI, UI Framework, App
+        caption: Oct 2011 - May 2015
+        quote: >
+          SI 아웃소싱 업체, 주로 SK계열사의 시스템을 개발 및 운영 서비스
+        description: | # this will include new lines to allow paragraphs
+          프론트엔드를 주로 개발하였으며 SKC&C 소속 자체 UI Framework를 만드는 팀에서 근무.
+          javascript를 기반으로 한 자체 UI 페이지를 개발, 프로젝트가 진행된 업체에 파견 SpringBoot, .Net, Android 등을 함께 개발
+          주 사용 언어: Javascript, Java, Jquery
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -118,16 +134,19 @@ content:
         quote: >
           산업 전반에서 일어나는 복합적인 문제를 IT, 공학, 경영 등 여러 각도 에서 분석하고, 실제로 적용할 수 있는 융합적인 해결 방법을 찾아내는 능력을 기를 수 있도록 교육했다.
         description: | # this will include new lines to allow paragraphs
-          공과대학 융합기술경영학부 소속으로 4년 만기 졸업. 학기중 (주)스탠딩 에그 회사에 주임 연구원으로 재직. 회사생활과 학교 생활을 병행 하였다
+          공과대학 융합기술경영학부 소속으로 4년 만기 졸업. 학기중 (주)스탠딩 에그 회사에 주임 연구원으로 재직(회사생활과 학교생활을 병행 하였다)
 
-          합리적 사고와 엔지니어적 기술 향상을 목표로 실무와 대학교육을 최대한 누린 4년이었다. 대학생활을 최대한 즐기려고 하였으나 이놈에 회사 생활은... 그래도 후회는 없다!(졸업 후 군대간 건 안비밀 ㅜㅜ)
+          합리적 사고와 엔지니어적 기술 향상을 목표로 실무와 대학교육을 최대한 누린 4년이었다.
+          대학생활을 최대한 즐기려고 하였으나 이놈에 회사 생활은... 그래도 후회는 없다!(졸업 후 군대간 건 안비밀 ㅜㅜ)
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Photography
-      - Traveling
+      여행을 좋아하며 사진과 커피, 맛있는 음식과 술 한잔을 사랑하는 꿈많은 사람이 되고 싶은 개발자, 취미는:
+      - 사진
+      - 커피
+      - 여행
+      - 재밌는 술자리?
 
 # Footer
 footer_show_references: true

@@ -6,3 +6,5 @@ Gemfile.lock
 *.code-workspace
 
 ./hanscom95.github.io.iml
+.idea
+about.iml
