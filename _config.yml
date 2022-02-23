@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Gait Tracking Android App
+        title: Gait Tracking App
         link: github.com/hanscom95/android/tree/main/standing_egg/Gait_BLE
         # link_text: Project Website
         additional_links:
@@ -68,9 +68,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Gait Tracking Solution. 관성항법장치(Inertial Navigation System)를 바탕으로 한 걸음 위치추적 시스템
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          GPS 여부 관계 없이 실내/실외 상황 모두에서 발걸음의 위치를 추적
+          Standing-Egg에서 제작한 SGO100 EVK Black Board와 발걸음 Tracking 알고리즘을 암호화 code로 변환하여 BLE모듈과 wifi모듈을 통해 앱으로 전송 시키는 프로젝트
+          Wifi는 udp, bluetooth는 BLE4.0 통신
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -100,7 +102,7 @@ content:
           군대 보직 중 가장 개발일에 가깝다고 생각되는 것중 하나인 '교육훈련 매체개발병' 들어가 Unreal로 게임을 개발
           이곳은 처음부터 끝까지 병사들 위주로 게임이 개발되는데 3D max, 블랜더로 게임에 사용될 제작물을 만들고
           언리얼 엔진으로 3차원 게임을 개발한다. 복무중 개발한 프로젝트는 '기상관측 VR훈련 콘텐츠', '방공포대 패트리어트 3D 컨트롤 훈련', '항공기삭별 VR훈련 콘텐츠' 개발
-          (군대에서 개발한것들은 군수품이라 못가지고 나온다 ㅜㅜ 그래도 만든 프로젝트 중에 기사화된 거 첨부 http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147)
+          (군대에서 개발한것들은 군수품이라 못가지고 나온다 ㅜㅜ 그래도 만든 프로젝트 중에 기사화된 거 첨부 <http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147>)
           * 진짜 병사들이 전부 개발하는 곳... 군무원 들어가서 개인 개발 하는것도 심각하게 생각해 보게 한다...
           주 사용 언어: Unreal, Blueprint, C++
       - layout: left
@@ -115,7 +117,7 @@ content:
             카메라를 이용한 양궁 점수 인식 프로그램으로 카메라를 무선으로 연결한 Android장치를 이용하여 자동 점수 인식 프로그램을 개발하였다. 점수 인식 성공률은 10발당 90% 정도를 보였으며,
             Computer Vision을 딥러닝 기술을 C++로 개발하였으며 Android JNI를 이용한 VIEW 프로그램을 개발
             낚시 관련 오픈마켓 앱을 출시 Android native로 개발하였으며 백엔드는 PHP 및 Node로 제작(현재 서비스 종료)
-            (https://apkpure.com/%EC%84%B8%EC%83%81%EC%97%90%EB%AA%A8%EB%93%A0%EB%AF%B8%EB%81%BC-%EC%84%B8%EB%AF%B8/artech.com.semi.free)
+            [세상의 모든 미끼:세미](https://apkpure.com/%EC%84%B8%EC%83%81%EC%97%90%EB%AA%A8%EB%93%A0%EB%AF%B8%EB%81%BC-%EC%84%B8%EB%AF%B8/artech.com.semi.free)
             주 사용 언어: Java, C++, PHP, Android, iOS, Node
       - layout: left
         title: 주식회사 스탠딩에그
