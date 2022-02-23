@@ -99,20 +99,20 @@ content:
         title: 대한민국공군
         link: rokaf.airforce.mil.kr
         # link_text: artech.limited
-        sub_title: 공군, 진주교육사령부
+        sub_title: 공군, 진주교육사령부 교육자원정보실
         caption:  February 2019 - December 2020
         quote: >
           공군에서 사용하는 AR, VR기반 교육훈련 콘텐츠 개발 Unreal을 사용, 주로 3D 게임 개발
         description: | # this will include new lines to allow paragraphs
           군대 보직 중 가장 개발일에 가깝다고 생각되는 것중 하나인 '교육훈련 매체개발병' 들어가 Unreal로 게임을 개발
 
-          이곳은 처음부터 끝까지 병사들 위주로 게임이 개발되는데 3D max, 블랜더로 게임에 사용될 제작물을 만들고
+          이곳은 처음부터 끝까지 병사들 위주로 게임이 개발되는데 3D max, 블랜더로 게임에 사용될 제작물을 만들고 언리얼 엔진으로 3차원 게임을 개발한다. 복무중 개발한 프로젝트는 '기상관측 VR훈련 콘텐츠', '방공포대 패트리어트 3D 컨트롤 훈련', '항공기삭별 VR훈련 콘텐츠' 개발
 
-          언리얼 엔진으로 3차원 게임을 개발한다. 복무중 개발한 프로젝트는 '기상관측 VR훈련 콘텐츠', '방공포대 패트리어트 3D 컨트롤 훈련', '항공기삭별 VR훈련 콘텐츠' 개발
+          (군대에서 개발한것들은 군수품이라 못가지고 나온다 ㅜㅜ 그래도 만든 프로젝트 중에 기사화된 거 첨부
 
-          (군대에서 개발한것들은 군수품이라 못가지고 나온다 ㅜㅜ 그래도 만든 프로젝트 중에 기사화된 거 첨부 <http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147>)
+          <http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147>)
 
-          * 진짜 병사들이 전부 개발하는 곳... 군무원 들어가서 개인 개발 하는것도 심각하게 생각해 보게 한다...
+          - 진짜 병사들이 전부 개발하는 곳... 군무원 들어가서 개인 개발 하는것도 심각하게 생각해 보게 한다...
 
           주 사용 언어: Unreal, Blueprint, C++
       - layout: left
@@ -134,7 +134,7 @@ content:
 
             주 사용 언어: Java, C++, PHP, Android, iOS, Node
       - layout: left
-        title: 주식회사 스탠딩에그
+        title: (주)스탠딩에그
         link: www.standing-egg.com
         # link_text: standing.com
         sub_title: Sensor Fusion 
@@ -168,7 +168,9 @@ content:
         caption: 2015 - 2019
         sub_title: 융합기술경영학부
         quote: >
-          산업 전반에서 일어나는 복합적인 문제를 IT, 공학, 경영 등 여러 각도 에서 분석하고, 실제로 적용할 수 있는 융합적인 해결 방법을 찾아내는 능력을 기를 수 있도록 교육
+          산업 전반에서 일어나는 복합적인 문제를 IT, 공학, 경영 등 여러 각도 에서 분석하고,
+
+          실제로 적용할 수 있는 융합적인 해결 방법을 찾아내는 능력을 기를 수 있도록 교육
         description: | # this will include new lines to allow paragraphs
           공과대학 융합기술경영학부 소속으로 4년 만기 졸업. 학기중 (주)스탠딩 에그 회사에 주임 연구원으로 재직(회사생활과 학교생활을 병행 하였다)
 
