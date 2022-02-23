@@ -71,8 +71,8 @@ content:
           Gait Tracking Solution. 관성항법장치(Inertial Navigation System)를 바탕으로 한 걸음 위치추적 시스템
         description: | # this will include new lines to allow paragraphs
           GPS 여부 관계 없이 실내/실외 상황 모두에서 발걸음의 위치를 추적
-          |Standing-Egg에서 제작한 SGO100 EVK Black Board와 발걸음 Tracking 알고리즘을 암호화 code로 변환하여 BLE모듈과 wifi모듈을 통해 앱으로 전송 시키는 프로젝트
-          |Wifi는 udp, bluetooth는 BLE4.0 통신
+          -- Standing-Egg에서 제작한 SGO100 EVK Black Board와 발걸음 Tracking 알고리즘을 암호화 code로 변환하여 BLE모듈과 wifi모듈을 통해 앱으로 전송 시키는 프로젝트
+          -- Wifi는 udp, bluetooth는 BLE4.0 통신
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,9 +87,9 @@ content:
           비스퀘어랩 Square Leisure 기반 DID, Data Governance, Cross-Chain Interoperability 및 Oracle과 같은 솔루션을 제공
         description: | # this will include new lines to allow paragraphs
             주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있다.
-            |주 사용 언어: Node, Go, Java, Dart, Objective-C, MYSQL
-            |주 사용 프레임워크: Flutter, Spring Boot, Android, iOS
-            |주 사용 플랫폼: Docker, AWS, Ubuntu, CentOS
+            -- 주 사용 언어: Node, Go, Java, Dart, Objective-C, MYSQL
+            -- 주 사용 프레임워크: Flutter, Spring Boot, Android, iOS
+            -- 주 사용 플랫폼: Docker, AWS, Ubuntu, CentOS
       - layout: left
         title: 대한민국공군
         link: rokaf.airforce.mil.kr
@@ -99,12 +99,12 @@ content:
         quote: >
           공군에서 사용하는 AR, VR기반 교육훈련 콘텐츠 개발 Unreal을 사용, 주로 3D 게임 개발
         description: | # this will include new lines to allow paragraphs
-            군대 보직 중 가장 개발일에 가깝다고 생각되는 것중 하나인 '교육훈련 매체개발병' 들어가 Unreal로 게임을 개발
-            |이곳은 처음부터 끝까지 병사들 위주로 게임이 개발되는데 3D max, 블랜더로 게임에 사용될 제작물을 만들고
-            |언리얼 엔진으로 3차원 게임을 개발한다. 복무중 개발한 프로젝트는 '기상관측 VR훈련 콘텐츠', '방공포대 패트리어트 3D 컨트롤 훈련', '항공기삭별 VR훈련 콘텐츠' 개발
-            |(군대에서 개발한것들은 군수품이라 못가지고 나온다 ㅜㅜ 그래도 만든 프로젝트 중에 기사화된 거 첨부 <http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147>)
-            |* 진짜 병사들이 전부 개발하는 곳... 군무원 들어가서 개인 개발 하는것도 심각하게 생각해 보게 한다...
-            |주 사용 언어: Unreal, Blueprint, C++
+          군대 보직 중 가장 개발일에 가깝다고 생각되는 것중 하나인 '교육훈련 매체개발병' 들어가 Unreal로 게임을 개발
+          -- 이곳은 처음부터 끝까지 병사들 위주로 게임이 개발되는데 3D max, 블랜더로 게임에 사용될 제작물을 만들고
+          -- 언리얼 엔진으로 3차원 게임을 개발한다. 복무중 개발한 프로젝트는 '기상관측 VR훈련 콘텐츠', '방공포대 패트리어트 3D 컨트롤 훈련', '항공기삭별 VR훈련 콘텐츠' 개발
+          -- (군대에서 개발한것들은 군수품이라 못가지고 나온다 ㅜㅜ 그래도 만든 프로젝트 중에 기사화된 거 첨부 <http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147>)
+          -- * 진짜 병사들이 전부 개발하는 곳... 군무원 들어가서 개인 개발 하는것도 심각하게 생각해 보게 한다...
+          -- 주 사용 언어: Unreal, Blueprint, C++
       - layout: left
         title: (주)알텍
         link: www.artech.limited
@@ -115,10 +115,10 @@ content:
           양궁 점수 인식 시스템 개발, 오픈마켓
         description: | # this will include new lines to allow paragraphs
             카메라를 이용한 양궁 점수 인식 프로그램으로 카메라를 무선으로 연결한 Android장치를 이용하여 자동 점수 인식 프로그램을 개발하였다. 점수 인식 성공률은 10발당 90% 정도를 보였으며,
-            |Computer Vision을 딥러닝 기술을 C++로 개발하였으며 Android JNI를 이용한 VIEW 프로그램을 개발
-            |낚시 관련 오픈마켓 앱을 출시 Android native로 개발하였으며 백엔드는 PHP 및 Node로 제작(현재 서비스 종료)
-            |[세상의 모든 미끼:세미](https://apkpure.com/%EC%84%B8%EC%83%81%EC%97%90%EB%AA%A8%EB%93%A0%EB%AF%B8%EB%81%BC-%EC%84%B8%EB%AF%B8/artech.com.semi.free)
-            |주 사용 언어: Java, C++, PHP, Android, iOS, Node
+            -- Computer Vision을 딥러닝 기술을 C++로 개발하였으며 Android JNI를 이용한 VIEW 프로그램을 개발
+            -- 낚시 관련 오픈마켓 앱을 출시 Android native로 개발하였으며 백엔드는 PHP 및 Node로 제작(현재 서비스 종료)
+            -- [세상의 모든 미끼:세미](https://apkpure.com/%EC%84%B8%EC%83%81%EC%97%90%EB%AA%A8%EB%93%A0%EB%AF%B8%EB%81%BC-%EC%84%B8%EB%AF%B8/artech.com.semi.free)
+            -- 주 사용 언어: Java, C++, PHP, Android, iOS, Node
       - layout: left
         title: 주식회사 스탠딩에그
         link: www.standing-egg.com
@@ -129,7 +129,7 @@ content:
           Software programming with sensors
         description: | # this will include new lines to allow paragraphs
             Kalman filter, sensor fusion algorithm programming using 9-axis sensor. Android app development that links tracking, fitness, and iot systems.
-            |주 사용 언어: C++, Python, Java, Android
+            -- 주 사용 언어: C++, Python, Java, Android
       - layout: left
         title: 씨앤토트플러스(주)
         link: www.cnthoth.com
@@ -140,8 +140,8 @@ content:
           SI 아웃소싱 업체, 주로 SK계열사의 시스템을 개발 및 운영 서비스
         description: | # this will include new lines to allow paragraphs
           프론트엔드를 주로 개발하였으며 SKC&C 소속 자체 UI Framework를 만드는 팀에서 근무
-          |javascript를 기반으로 한 자체 UI 페이지를 개발, 프로젝트가 진행된 업체에 파견 SpringBoot, .Net, Android 등을 함께 개발
-          |주 사용 언어: Javascript, Java, Jquery
+          -- javascript를 기반으로 한 자체 UI 페이지를 개발, 프로젝트가 진행된 업체에 파견 SpringBoot, .Net, Android 등을 함께 개발
+          -- 주 사용 언어: Javascript, Java, Jquery
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -154,9 +154,9 @@ content:
           산업 전반에서 일어나는 복합적인 문제를 IT, 공학, 경영 등 여러 각도 에서 분석하고, 실제로 적용할 수 있는 융합적인 해결 방법을 찾아내는 능력을 기를 수 있도록 교육
         description: | # this will include new lines to allow paragraphs
           공과대학 융합기술경영학부 소속으로 4년 만기 졸업. 학기중 (주)스탠딩 에그 회사에 주임 연구원으로 재직(회사생활과 학교생활을 병행 하였다)
-          |고등학교 졸업후 개발자로 바로 취업을 해서 그런지 대학생활과 교육을 좀더 받고 싶었다.
-          |그래도 제대로된 개발일은 계속 하고 싶어 대학을 다니며 직장생활을 병행하게 해줄 회사를 찾아 이직 했다.(덕분에 주말은 포기ㅎㅎ)
-          |대학생활을 최대한 즐기려고 하였으나 이놈에 회사 생활은... 그래도 후회는 없다!(졸업 후 군대간 건 안비밀...)
+          -- 고등학교 졸업후 개발자로 바로 취업을 해서 그런지 대학생활과 교육을 좀더 받고 싶었다.
+          -- 그래도 제대로된 개발일은 계속 하고 싶어 대학을 다니며 직장생활을 병행하게 해줄 회사를 찾아 이직 했다.(덕분에 주말은 포기ㅎㅎ)
+          -- 대학생활을 최대한 즐기려고 하였으나 이놈에 회사 생활은... 그래도 후회는 없다!(졸업 후 군대간 건 안비밀...)
 
   - title: A Little More About Me
     layout: text
