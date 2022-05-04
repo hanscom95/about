@@ -119,14 +119,14 @@ content:
         title: (주)알텍
         link: www.artech.limited
         # link_text: artech.limited
-        sub_title: 양궁,
+        sub_title: 양궁 시스템, 오픈마켓
         caption: November 2017 - November 2018
         quote: >
           양궁 점수 인식 시스템 개발, 오픈마켓
         description: | # this will include new lines to allow paragraphs
-            카메라를 이용한 양궁 점수 인식 프로그램으로 카메라를 무선으로 연결한 Android장치를 이용하여 자동 점수 인식 프로그램을 개발하였다. 점수 인식 성공률은 10발당 90% 정도를 보였으며,
+            카메라를 이용한 양궁 점수 인식 프로그램으로 카메라를 무선으로 연결한 Android 장치를 이용하여 자동 점수 인식 프로그램을 개발하였다. 점수 인식 성공률은 10발당 90% 정도를 보였으며,
 
-            Computer Vision을 딥러닝 기술을 C++로 개발하였으며 Android JNI를 이용한 VIEW 프로그램을 개발
+            Computer Vision의 딥러닝을 사용, C++로 개발 Android JNI를 이용한 VIEW 프로그램을 개발
 
             낚시 관련 오픈마켓 앱을 출시 Android native로 개발하였으며 백엔드는 PHP 및 Node로 제작(현재 서비스 종료)
 
@@ -154,9 +154,9 @@ content:
         quote: >
           SI 아웃소싱 업체, 주로 SK계열사의 시스템을 개발 및 운영 서비스
         description: | # this will include new lines to allow paragraphs
-          프론트엔드를 주로 개발하였으며 SKC&C 소속 자체 UI Framework를 만드는 팀에서 근무
+          프론트엔드를 주로 개발하였으며 SKC&C 소속 자체 UI Framework를 만드는 팀에서 근무(DF팀)
 
-          javascript를 기반으로 한 자체 UI 페이지를 개발, 프로젝트가 진행된 업체에 파견 SpringBoot, .Net, Android 등을 함께 개발
+          javascript를 기반으로 한 자체 UI 페이지를 개발, 프로젝트가 진행된 업체에 파견 SpringBoot, .Net, Android 등을 개발
 
           주 사용 언어: Javascript, Java, Jquery
 
