@@ -48,34 +48,11 @@ instagram_username: moon_developer_93
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  일, 생활 모두 재미있게 하자! 커피를 좋아하고 여행을 좋아하는 직딩으로 개발자로 오래 먹고 살기 위해 노력해 나가는 중이다. 프론트 개발부터 앱 개발(안드로이드, 플로터), System 프로그래밍, 백엔드, DevOps까지 많은 걸 건드렸으나 아직 배고픈? 개발자다.
+  일, 생활 모두 재미있게 하자! 커피와 여행을 좋아하는 직딩 개발자로 먹고 살기 위해 노력해 나가는 중. front 개발부터 시작해 앱 개발(안드로이드, 플로터), System 프로그래밍, 현재는 Back-End, DevOps 개발
 
-  I am most skilled in: <mark>Java</mark> and <mark>Node</mark> and <mark>Travel</mark>
+  I am most skilled in: <mark>Java</mark> and <mark>Node</mark> and <mark>GO</mark> and <mark>Travel</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Gait Tracking App
-        link: github.com/hanscom95/android/tree/main/standing_egg/Gait_BLE
-        # link_text: Project Website
-        additional_links:
-          - title:  hanscom95/Gait_BLE
-            icon: fab fa-github
-            url: github.com/hanscom95/android/tree/main/standing_egg/Gait_BLE
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Gait Tracking Solution. 관성항법장치(Inertial Navigation System)를 바탕으로 한 걸음 위치추적 시스템
-        description: | # this will include new lines to allow paragraphs
-          GPS 여부 관계 없이 실내/실외 상황 모두에서 발걸음의 위치를 추적
-
-          Standing-Egg에서 제작한 SGO100 EVK Black Board와 발걸음 Tracking 알고리즘을 암호화 code로 변환하여 BLE모듈과 wifi모듈을 통해 앱으로 전송 시키는 프로젝트
-
-          Wifi는 udp, bluetooth는 BLE4.0 통신
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -88,7 +65,7 @@ content:
         quote: >
           비스퀘어랩 Square Leisure 기반 DID, Data Governance, Cross-Chain Interoperability 및 Oracle과 같은 솔루션을 제공
         description: | # this will include new lines to allow paragraphs
-            주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있다.
+            주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있
 
             주 사용 언어: Node, Go, Java, Dart, Objective-C, MYSQL
 
@@ -112,7 +89,7 @@ content:
 
           <http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147>)
 
-          - 진짜 병사들이 전부 개발하는 곳... 군무원 들어가서 개인 개발 하는것도 심각하게 생각해 보게 한다...
+          - 진짜 병사들이 전부 개발하는 곳... 진짜 군무원이 개꿀이구나...
 
           주 사용 언어: Unreal, Blueprint, C++
       - layout: left
@@ -159,6 +136,29 @@ content:
           javascript를 기반으로 한 자체 UI 페이지를 개발, 프로젝트가 진행된 업체에 파견 SpringBoot, .Net, Android 등을 개발
 
           주 사용 언어: Javascript, Java, Jquery
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Gait Tracking App
+        link: github.com/hanscom95/android/tree/main/standing_egg/Gait_BLE
+        # link_text: Project Website
+        additional_links:
+          - title:  hanscom95/Gait_BLE
+            icon: fab fa-github
+            url: github.com/hanscom95/android/tree/main/standing_egg/Gait_BLE
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Gait Tracking Solution. 관성항법장치(Inertial Navigation System)를 바탕으로 한 걸음 위치추적 시스템
+        description: | # this will include new lines to allow paragraphs
+          GPS 여부 관계 없이 실내/실외 상황 모두에서 발걸음의 위치를 추적
+
+          Standing-Egg에서 제작한 SGO100 EVK Black Board와 발걸음 Tracking 알고리즘을 암호화 code로 변환하여 BLE모듈과 wifi모듈을 통해 앱으로 전송 시키는 프로젝트
+
+          Wifi는 udp, bluetooth는 BLE4.0 통신
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
