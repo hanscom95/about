@@ -66,13 +66,13 @@ content:
         quote: >
           비스퀘어랩 Square Leisure 기반 DID, Data Governance, Cross-Chain Interoperability 및 Oracle과 같은 솔루션을 제공
         description: | # this will include new lines to allow paragraphs
-            주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있음
+            주로 백엔드 개발을 맡고 있으며 DevOps와 infra 구축을 맡고 있음
 
-            주 사용 언어: Node, Go, Java, Dart, Objective-C, MYSQL
+            주 사용 언어: Java, Node, Go, Dart, Objective-C
 
-            주 사용 프레임워크: Flutter, Spring Boot, Android, iOS
+            주 사용 프레임워크: Spring Boot, ReactNative, Flutter, Android, iOS
 
-            주 사용 플랫폼: Docker, AWS, Ubuntu, CentOS
+            주 사용 플랫폼: Docker, AWS, Terraform, K8S, Jenkins, Grafana
       - layout: left
         title: 대한민국공군
         link: rokaf.airforce.mil.kr
