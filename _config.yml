@@ -11,7 +11,7 @@ title: 개발자로 오래 살고 싶은 직딩
 email: hanscom94@gmail.com
 website: hanscom95.github.io
 
-# Dark Mode (true/false/never) 
+# Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
@@ -48,7 +48,8 @@ instagram_username: moon_developer_93
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  일, 생활 모두 재미있게 하자! 커피와 여행을 좋아하는 직딩 개발자로 먹고 살기 위해 노력해 나가는 중. front 개발부터 시작해 앱 개발(안드로이드, 플로터), System 프로그래밍, 현재는 Back-End, DevOps 개발
+  일, 생활 모두 재미있게 하자! 커피와 여행을 좋아하는 직딩 개발자로 먹고 살기 위해 노력해 나가는 중.
+  front 개발부터 시작해 앱 개발(안드로이드, 플로터), System 프로그래밍, 현재는 Back-End, DevOps 개발
 
   I am most skilled in: <mark>Java</mark> and <mark>Node</mark> and <mark>GO</mark> and <mark>Travel</mark>
 
@@ -65,7 +66,7 @@ content:
         quote: >
           비스퀘어랩 Square Leisure 기반 DID, Data Governance, Cross-Chain Interoperability 및 Oracle과 같은 솔루션을 제공
         description: | # this will include new lines to allow paragraphs
-            주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있
+            주로 백엔드 개발을 맡고 있으며 DevOps쪽 방향으로 스터디하며 개발 뎁스를 늘려가고 있음
 
             주 사용 언어: Node, Go, Java, Dart, Objective-C, MYSQL
 
@@ -89,7 +90,7 @@ content:
 
           <http://www.shinailbo.co.kr/news/articleView.html?idxno=1187147>)
 
-          - 진짜 병사들이 전부 개발하는 곳... 진짜 군무원이 개꿀이구나...
+          - 진짜 병사들이 전부 개발하는 곳... 군무원이 개꿀이구나...
 
           주 사용 언어: Unreal, Blueprint, C++
       - layout: left
@@ -103,7 +104,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             카메라를 이용한 양궁 점수 인식 프로그램으로 카메라를 무선으로 연결한 Android 장치를 이용하여 자동 점수 인식 프로그램을 개발하였다. 점수 인식 성공률은 10발당 90% 정도를 보였으며,
 
-            Computer Vision의 딥러닝을 사용, C++로 개발 Android JNI를 이용한 VIEW 프로그램을 개발
+            Computer Vision 딥러닝을 사용, C++로 개발 Android JNI를 이용한 VIEW 프로그램을 개발
 
             낚시 관련 오픈마켓 앱을 출시 Android native로 개발하였으며 백엔드는 PHP 및 Node로 제작(현재 서비스 종료)
 
@@ -114,7 +115,7 @@ content:
         title: (주)스탠딩에그
         link: www.standing-egg.com
         # link_text: standing.com
-        sub_title: Sensor Fusion 
+        sub_title: Sensor Fusion
         caption: May 2015 - November 2017
         quote: >
           Software programming with sensors
